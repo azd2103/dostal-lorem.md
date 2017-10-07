@@ -5,7 +5,7 @@
 
 [Class Schedule](https://stylerevolution.github.io/class-site/schedule/)
 
-![Columbia](https://goo.gl/images/Ep3EnX "Columbia") 
+![Peacock](https://flic.kr/p/8D9eTi) 
 
 ## Section 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris molestie vel velit et luctus. Sed porta augue neque, non rhoncus lectus euismod et. Quisque eu enim eu tortor sodales venenatis volutpat at lorem. Nullam lacinia, nisl id laoreet imperdiet, justo arcu imperdiet nisl, at commodo nunc sem ac nulla. Curabitur posuere, nulla vitae malesuada sollicitudin, erat nisl semper ante, sit amet pulvinar ex sem ut justo. In semper aliquet felis vel scelerisque. Mauris aliquet ullamcorper metus eu blandit. Sed interdum felis eget vestibulum dictum. Fusce pellentesque maximus venenatis.
