@@ -104,5 +104,5 @@ Phasellus fermentum pharetra urna. Mauris elementum nulla ut semper suscipit. Ut
 
 Nulla ante purus, placerat a nisi vehicula, tempor vulputate dolor. Duis vitae tincidunt nibh, ut iaculis diam. Cras tincidunt dolor sed felis tincidunt, a pharetra diam semper. Phasellus rutrum, libero vel cursus dignissim, mauris purus viverra erat, nec porttitor dolor nisl ac arcu. Nam imperdiet nisi nec felis.
 
-[^1] Footnote
-[^2]Footnote
+[^1]:Footnote
+[^2]:Footnote
